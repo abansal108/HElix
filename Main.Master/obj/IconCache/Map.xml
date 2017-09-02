@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/content/Home/Sample Item" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Branches" ItemIcon="/temp/IconCache/Software/16x16/component.png" />
+  <Item ItemPath="/sitecore/templates/Common" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/List Manager" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Sample" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/User Defined" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/User Defined" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Contact List" ItemIcon="/temp/IconCache/people/32x32/cube_blue.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/List Folder" ItemIcon="/temp/IconCache/applications/32x32/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Alias" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Archiving" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Branches" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Browsers" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Content Testing" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Dictionary" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Child Sorting" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Feeds" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Html editor" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Html Editor Profiles" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Indexing and Search" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Experience Explorer" ItemIcon="/temp/IconCache/imaging/32x32/mask_wand_h.png" />
+  <Item ItemPath="/sitecore/templates/System/Item Buckets" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Item" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Item section" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Layout" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Language" ItemIcon="/temp/IconCache/Office/16x16/flag_generic.png" />
+  <Item ItemPath="/sitecore/templates/System/Media" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Menus" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Navigation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Node" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Notification" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Packages" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Path Analyzer" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Portal" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Main section" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Property" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Proxy" ItemIcon="/temp/IconCache/Applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates/System/Publishing target" ItemIcon="/temp/IconCache/Network/16x16/server.png" />
+  <Item ItemPath="/sitecore/templates/System/Ribbon" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Reference" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Root" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Security" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Rules" ItemIcon="/temp/IconCache/core2/32x32/properties_h.png" />
+  <Item ItemPath="/sitecore/templates/System/Services" ItemIcon="/temp/IconCache/Network/16x16/firewall_ok.png" />
+  <Item ItemPath="/sitecore/templates/System/Social" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Tasks" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Validation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/WebDAV" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Assembly" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Column" ItemIcon="/temp/IconCache/Applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Factory" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Field" ItemIcon="/temp/IconCache/Control/32x32/edit_b_h.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Field Type" ItemIcon="/temp/IconCache/Software/16x16/component_red.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Form" ItemIcon="/temp/IconCache/Office/32x32/template.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Form Section" ItemIcon="/temp/IconCache/Applications/32x32/folder2_green.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Meta Data" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Forms Folder" ItemIcon="/temp/IconCache/Applications/32x32/folder_document.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Options" ItemIcon="/temp/IconCache/Applications/32x32/lightbulb_on.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Renderings" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Parameters Accessor" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Actions" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Validators" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Analytics" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Branch" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Globalization" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Layouts" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Media" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Path Analyzer" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Rules" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Social" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Web Forms for Marketers/Form Verification Action" ItemIcon="/temp/IconCache/Office/32x32/check.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Contact List/Data" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Segmented List/Search" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/Sample/Sample Item/Data" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Marketing Taxonomy" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Campaign" ItemIcon="/temp/IconCache/Business/32x32/money2.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Campaign Category" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Dashboard" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Engagement Automation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Federated Experience Manager" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Country" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Filter" ItemIcon="/temp/IconCache/business/32x32/funnel.png" />
+  <Item ItemPath="/sitecore/templates/System/Analytics/Goal" ItemIcon="/~/icon/People/32x32/flag_checkered.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Common/Folder" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Common/Folder/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Contact List/__Standard Values" ItemIcon="/temp/IconCache/people/32x32/cube_blue.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/List Folder/__Standard Values" ItemIcon="/temp/IconCache/Applications/32x32/folder.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Segmented List" ItemIcon="/temp/IconCache/people/32x32/cubes.png" />
+  <Item ItemPath="/sitecore/templates/List Manager/Segmented List/__Standard Values" ItemIcon="/temp/IconCache/people/32x32/cubes.png" />
+  <Item ItemPath="/sitecore/templates/Sample/Sample Item" ItemIcon="/temp/IconCache/Applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates/Sample/Sample Item/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Web Forms for Marketers/Conditional Field Type" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Branches/System/Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Web Forms for Marketers" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Web Forms for Marketers/Save Action" ItemIcon="/temp/IconCache/Office/32x32/hammer.png" />
+  <Item ItemPath="/sitecore/templates/System" ItemIcon="/temp/IconCache/Applications/16x16/folder_gear.png" />
+</ItemIconCache>

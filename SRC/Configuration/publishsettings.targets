@@ -1,0 +1,13 @@
+<Project ToolsVersion="4.0" >
+  <PropertyGroup>
+    
+    <!-- File System Publish -->
+    <publishUrl>http://localtest/</publishUrl>
+
+    <!-- MSDeploy Publish -->
+    <MSDeployServiceURL>localhost</MSDeployServiceURL>
+    <DeployIisAppPath>LocalTest</DeployIisAppPath>
+
+    <!-- this file is Imported in all pubxml files -->
+  </PropertyGroup>
+</Project>
